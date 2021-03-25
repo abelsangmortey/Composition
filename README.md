@@ -1,2 +1,2 @@
 # Composition
-Basic java projects
+Basic java assignment projects
